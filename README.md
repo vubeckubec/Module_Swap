@@ -102,5 +102,5 @@ module_swap/
 Viktor Kubec  
 BUT FIT Brno student  
 MIT License  
-GitHub: [vubeckubec/Module_Swap](https://github.com/vubeckubec/Module_Swap)
+GitHub: [vubeckubec/Module_Swap](https://github.com/vubeckubec/Module_Swap)  
 PyPi: [Module_Swap](https://pypi.org/project/module-swap/1.2/)
