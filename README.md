@@ -102,4 +102,4 @@ module_swap/
 Viktor Kubec  
 BUT FIT Brno student  
 MIT License  
-GitHub: [uzivatel/module_inventory_binder](https://github.com/uzivatel/module_inventory_binder)
+GitHub: [vubeckubec/Module_Swap](https://github.com/vubeckubec/Module_Swap)
