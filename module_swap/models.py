@@ -1,4 +1,9 @@
 """
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: models.py
+
+brief:
 Model representing a one-to-one relationship between Modules and Inventory Items in NetBox.
 This link ensures a clear association and easy tracking between hardware modules 
 and their inventory counterparts.

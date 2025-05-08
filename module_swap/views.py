@@ -1,4 +1,9 @@
 """
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: views.py
+
+brief:
 Views for handling module swaps and linking modules with inventory items in NetBox.
 This includes a multi-step form for moving modules between devices and managing 
 module-inventory item associations.

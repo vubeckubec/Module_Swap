@@ -71,6 +71,9 @@ module_swap/
 ```
 
 ## Changelog
+### v1.2.1
+- Added headers into each file
+
 ### v1.2
 - Added Inventory Item ↔ Module linking
 - Automatic Inventory Item updates on module movement

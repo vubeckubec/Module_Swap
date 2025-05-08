@@ -1,4 +1,9 @@
 """
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: forms.py
+
+brief:
 Forms for handling module swaps and linking modules with inventory items in NetBox.
 """
 from django import forms

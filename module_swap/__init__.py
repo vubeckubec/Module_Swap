@@ -1,4 +1,9 @@
 """
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: __init__.py
+
+brief:
 Defines the configuration metadata for the Module Swap plugin.
 """
 from django.urls import path, include
